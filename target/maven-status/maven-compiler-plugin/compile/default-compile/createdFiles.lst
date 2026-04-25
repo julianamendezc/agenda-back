@@ -1,0 +1,9 @@
+com\agenda\repository\UsuarioRepository.class
+com\agenda\model\Clase.class
+com\agenda\repository\InscripcionRepository.class
+com\agenda\controller\UsuarioController.class
+com\agenda\model\Inscripcion.class
+com\agenda\dto\Materia.class
+com\agenda\AgendaApplication.class
+com\agenda\service\UsuarioService.class
+com\agenda\model\Usuario.class
